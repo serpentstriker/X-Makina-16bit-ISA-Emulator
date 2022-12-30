@@ -1,0 +1,3 @@
+C:/Users/19023/OneDrive/Documents/Courses Summer 2022/ECED3403/emulator/cmake-build-debug/CMakeFiles/emulator.dir
+C:/Users/19023/OneDrive/Documents/Courses Summer 2022/ECED3403/emulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/19023/OneDrive/Documents/Courses Summer 2022/ECED3403/emulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

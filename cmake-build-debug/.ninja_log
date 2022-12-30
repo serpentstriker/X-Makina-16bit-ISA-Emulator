@@ -1,0 +1,10 @@
+# ninja log v5
+1	249	6941261300387255	build.ninja	f3fa953b1a38b7b5
+3	320	6803306925774536	CMakeFiles/emulator.dir/pswandbus.c.obj	e54ff36c12678e2b
+2	89	6927721938053284	CMakeFiles/emulator.dir/CPU.c.obj	1391cbe122f525a3
+90	209	6927721939203540	emulator.exe	bc70d153b8bb18e6
+79	316	6803306925774536	CMakeFiles/emulator.dir/decoder.c.obj	74c5286aac0218a9
+2	86	6927721366116373	CMakeFiles/emulator.dir/loader.c.obj	48d68d2a2312d0be
+3	235	6927717389722048	CMakeFiles/emulator.dir/fetch.c.obj	ca091d20fedea255
+15	250	6927717389882077	CMakeFiles/emulator.dir/execute.c.obj	3c39e6c7948b8fd5
+93	317	6803306925764530	CMakeFiles/emulator.dir/Register_display.c.obj	4597eb63d6c865a9
