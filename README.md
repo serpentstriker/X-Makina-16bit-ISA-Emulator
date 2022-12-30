@@ -1,4 +1,4 @@
-﻿# X-Makina-16bit-ISA-Emulator
+﻿# X-Makina-16bit-ISA-Emulator - Description from Dr. Larry Huges's design document
  
 XMX is an extended version of the original X-Makina 16-bit Instruction Set Architecture. The XMX architecture doubles the number of registers from eight to sixteen and increasing the number of instructions.
 
